@@ -29,4 +29,4 @@
 
 ## Circuit Diagram
 
-The circuit diagram will be added here.
+![Intelligent Distance-Controlled Barrier Circuit Diagram](circuit-diagram.png)
